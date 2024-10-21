@@ -1,8 +1,8 @@
 # MEMBUAT KODE PROGRAM DARI FLOWCHART PADA PERTEMUAN KE-5
-Tugas pertemuan ke 5
-NAMA: Mochammad Hafilla Dasuki
-Kelas: TI 24 A3
-NIM: 312410375
+<li>Tugas pertemuan ke 5</li>
+<li>NAMA: Mochammad Hafilla Dasuki</li>
+<li>Kelas: TI 24 A3</li>
+<li>NIM: 312410375</li>
 # 1.BILANGAN TERBESAR DI PRGRAM PHYTON
 Program pertama yang di buat untuk menampilkan bilangan terbesar dari 3 bilangan
 
