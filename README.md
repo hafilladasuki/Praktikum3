@@ -3,13 +3,14 @@
 <li>NAMA: Mochammad Hafilla Dasuki</li>
 <li>Kelas: TI 24 A3</li>
 <li>NIM: 312410375</li>
+<div>
 # 1.BILANGAN TERBESAR DI PRGRAM PHYTON
 Program pertama yang di buat untuk menampilkan bilangan terbesar dari 3 bilangan
 
-berikut flowchartnya :
-<img width="385" alt="flowchartprogram1" src="https://github.com/user-attachments/assets/aaa130da-5cc4-4a2a-9464-9d9df93e9011">
-program akan diminta untuk memasukan 3 angka untuk di bandingkan:
-<img width="797" alt="outputprogram1" src="https://github.com/user-attachments/assets/3dcf732a-e072-4d9c-94e2-cf9f25b7effc">
+<p>berikut flowchartnya :</p>
+<p><img width="385" alt="flowchartprogram1" src="https://github.com/user-attachments/assets/aaa130da-5cc4-4a2a-9464-9d9df93e9011"></p>
+<p>program akan diminta untuk memasukan 3 angka untuk di bandingkan:</p>
+<p><img width="797" alt="outputprogram1" src="https://github.com/user-attachments/assets/3dcf732a-e072-4d9c-94e2-cf9f25b7effc"></p>
 Penjelasan code 
 <img width="395" alt="code1" src="https://github.com/user-attachments/assets/e6da71e7-4142-437d-b6ec-46d0f6dea837">
 misalkan ada 3 buah bilangan yaitu bilangan (a,b,c)
